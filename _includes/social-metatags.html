@@ -7,7 +7,7 @@
 
 
 {% if page.author.name %}
-  {% assign page_author = page.author.name | default: nil | escape %}
+  {% assign page_author = page.author.name | default: Benedict Weichselbaum | escape %}
   {% assign twitter_creator = page.twitter.username | default: site.twitter.site | default: nil | escape %}
 {% else %}
   {% assign page_author = site.author.name | default: nil | escape %}

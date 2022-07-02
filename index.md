@@ -6,12 +6,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Benedict Weichselbaum
+
+ref: Startseite
 ---
+Hi and welcome to my "in progress" Website.
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+My name is Benedict Weichselbaum. I am currently a Masters student at the FAU university in Erlangen, Germany. As a working student I develop software at DATEV eG in Nürnberg. Additionally I work together with my former University DHBW Stuttgart Campus Horb as a tutor for student research projects.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+On my site you can find further information about me and hopefully soon some blog posts that are helpful.
