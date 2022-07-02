@@ -7,8 +7,6 @@
 #
 layout: home
 title: Benedict Weichselbaum
-
-ref: Startseite
 ---
 Hi and welcome to my "in progress" Website.
 
