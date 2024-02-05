@@ -19,5 +19,5 @@ layout: home
 Hello and welcome to my personal website. My name is Benedict, and I'm a Software Developer. <br/><br/>
 I currently work for a big software company located in Nürnberg, Germany. At this job I primarily develop web service with Spring Boot in an enterprise environment.<br/><br/>
 I first studyed computer science at <i>Cooperative State University Stuttgart (DHBW)</i> and received my bachelor's degree there with a dual study program. After my bachelor I got my master's degree in computer science from <i>Friedrich-Alexander University Erlangen-Nürnberg</i>.<br/><br/>
-Together with DHBW I also sometimes supervise student research projects there.<br/><br/>
+Together with DHBW I also sometimes supervise student research projects.<br/><br/>
 </font>
