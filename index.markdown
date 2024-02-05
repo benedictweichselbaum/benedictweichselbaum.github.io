@@ -7,7 +7,7 @@ layout: home
 <div
     style="
         max-height: 350px;
-        max-width: 100%;
+        max-width: 700px;
         overflow: hidden;
     "
 >
