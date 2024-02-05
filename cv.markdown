@@ -30,7 +30,7 @@ permalink: /cv/
 - <font size=4><b>10/2018 - 01/2021:</b>&emsp;&emsp;&emsp;B.Sc. in Computer Science at DHBW Stuttgart<br><br></font>
   - Dual study program together with DATEV eG
   - Contents: Logic, Mathematics, Software Engineering, Artifical Intelligence, Programming etc.
-  - Thesis: *Entwurf einer Online-Applikation zur Auswertung von kaufma ̈nnischen Belegdaten im Kontext des Domain-Driven Design*
+  - Thesis: *Entwurf einer Online-Applikation zur Auswertung von kaufmännischen Belegdaten im Kontext des Domain-Driven Design*
   - Graduation at the top of the class
   - GPA: 1.3 (*very good*)
 
