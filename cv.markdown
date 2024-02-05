@@ -16,11 +16,11 @@ permalink: /cv/
   - Developing of a new web-based invoice software in a microservice environment.<br><br> 
 - <font size=4><b>10/2018 - 05/2021:</b>&emsp;&emsp;&emsp;Dual Student at DATEV eG<br><br></font>
   - Gaining of practical experience as part of my dual study bachelors programm at DHBW
-  - Completion of multiple study and research projects including my bachelor thesis.<br><br>
+  - Completion of multiple study and research projects. This included my bachelor thesis.<br><br>
 - <font size=4><b>10/2021 - 09/2023:</b>&emsp;&emsp;&emsp;Supervisor for student research projects at DHBW<br><br></font>
   - Supervision of student research projects about graphs together with my former professor.
   - Topics: *Similarity of Graphs*, *Graph Neural Networks*
-  - Helping with scientific writing and grading of the final projects
+  - Helping with scientific writing and grading of the final projects.
 
 ### Education
 - <font size=4><b>10/2021 - 01/2024:</b>&emsp;&emsp;&emsp;M.Sc. in Computer Science at FAU Erlangen-Nürnberg<br><br></font>
