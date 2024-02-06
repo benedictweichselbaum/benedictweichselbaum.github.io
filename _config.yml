@@ -21,7 +21,8 @@ author: ''
 title: Benedict Weichselbaum
 email: work@bweichselbaum.de
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal website ❤️
+  My personal website.
+  Writing about coding, university and other stuff. ❤️
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "benedict-weichselbaum.de" # the base hostname & protocol for your site, e.g. http://example.com
 
