@@ -27,7 +27,7 @@ permalink: /cv/
   - Contents: Inner Source, Software Architecture, Computer Graphics, Usability, Databases
   - Thesis: *Classification and Analysis of Inner Source Development Artifacts*
   - GPA: 1.4 (*very good*)<br><br>
-- <font size=4><b>10/2018 - 01/2021:</b>&emsp;&emsp;&emsp;B.Sc. in Computer Science at DHBW Stuttgart<br><br></font>
+- <font size=4><b>10/2018 - 09/2021:</b>&emsp;&emsp;&emsp;B.Sc. in Computer Science at DHBW Stuttgart<br><br></font>
   - Dual study program together with DATEV eG
   - Contents: Logic, Mathematics, Software Engineering, Artifical Intelligence, Programming etc.
   - Thesis: *Entwurf einer Online-Applikation zur Auswertung von kaufm&auml;nnischen Belegdaten im Kontext des Domain-Driven Design*
