@@ -3,10 +3,11 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-<img src="/resources/Mitarbeiterbild.jpg" alt="Myself" height=200px width=155px>
+<img src="/resources/Foto_Benedict_Weichselbaum_Med.jpg" alt="Myself" height=200px width=155px>
 
 ### Professional Experience
-- <font size=4><b>06/2023 - Present:</b>&emsp;&emsp;&emsp;Software Engineer at DATEV eG<br><br></font>
+- <font size=4><b>07/2024 - Present:</b>&emsp;&emsp;&emsp;Business Intelligence Consultant at Bissantz & Company<br><br></font>
+- <font size=4><b>06/2023 - 06/2024:</b>&emsp;&emsp;&emsp;Software Engineer at DATEV eG<br><br></font>
   - Developing cloud web services with Spring Boot
   - Development includes conceptualizing, coding, deploying and monitoring of the created services.
   - Enterprise environment with tens of thousands of customers.
