@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 <div
@@ -20,5 +17,6 @@ Hello and welcome to my personal website. My name is Benedict, and I'm a Compute
 I currently work for a Business Intelligence software company located in Nürnberg, Germany. At this job I act as an BI-Consultant.<br/><br/>
 I first studyed computer science at <i>Cooperative State University Stuttgart (DHBW)</i> and received my bachelor's degree there as part of a dual study program. After my bachelor I got my master's degree in computer science from <i>Friedrich-Alexander University Erlangen-Nürnberg</i>.<br/><br/>
 Together with DHBW I also sometimes supervise student research projects.<br/><br/>
-Besides my professional life I have a great interest in photography. This website is therefore also an creative outlet for my photo projects. Extending my passion for photography I am also invested into motion pictures and music. I owning a small collection of physical movies and vinyl LPs. 
+Besides my professional life I have a great interest in photography. This website is therefore also an creative outlet for my photo projects. Extending my passion for photography I am also invested into motion pictures and music. I own a small collection of physical movies and vinyl LPs. 
 </font>
+<br>
