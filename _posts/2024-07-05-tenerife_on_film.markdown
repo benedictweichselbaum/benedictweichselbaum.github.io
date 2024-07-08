@@ -27,7 +27,7 @@ Before Tenerife I never shot a trip on film. To make the most of it, I took with
 ### Technical details
 Before I talk about the pictures I want to show you my technical setup. First my used cameras and lenses:
 
-| Camera | Lenes |
+| Camera | Lenses |
 | ----------- | --------------------- |
 | Minolta XD7 | Minolta 50mm f/1.4, Minolta 24-35mm f/3.5, Minolta 70-210mm f/4 |
 | Minolta SRT 100X | Minolta 50mm f/1.4, Minolta 24-35mm f/3.5, Minolta 70-210mm f/4 |
