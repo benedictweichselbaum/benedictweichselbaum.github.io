@@ -7,13 +7,13 @@ permalink: /cv/
 
 ### Professional Experience
 - <font size=4><b>01/2025 - Present:</b>&emsp;&emsp;&emsp;Founder of my individual business as a SwiftUI Developer<br><br></font>
-  - Developing and selling of a MacOS app for processing scanned film negatives and positives ("GrainForge")
+  - Developing and selling of a MacOS app for processing scanned film negatives and positives ("GrainForge")<br><br> 
 - <font size=4><b>07/2024 - Present:</b>&emsp;&emsp;&emsp;Business Intelligence Consultant at Bissantz & Company<br><br></font>
   - Multi-dimensional data modelling and analysis of big datasets
   - Creation of complex data import and transformation pipelines
   - Advanced usage of SQL and MDX
   - Consulting of big enterprises with thousands of employees with direct customer contact.
-  - Technologies: MS Analysis Services, MS SSIS, DeltaMaster, SAP
+  - Technologies: MS Analysis Services, MS SSIS, DeltaMaster, SAP<br><br> 
 - <font size=4><b>06/2023 - 06/2024:</b>&emsp;&emsp;&emsp;Software Engineer at DATEV eG<br><br></font>
   - Developing cloud web services with Spring Boot
   - Development includes conceptualizing, coding, deploying and monitoring of the created services.
