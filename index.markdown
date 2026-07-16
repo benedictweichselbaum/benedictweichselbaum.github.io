@@ -1,22 +1,34 @@
 ---
 layout: home
+title: Home
+location: Brilon, Germany
+hero_name: Benedict Weichselbaum
+hero_role: Data Engineer · BI Consultant · Software Engineer
+hero_tagline: >-
+  I turn data into insight and ideas into software — from enterprise BI
+  pipelines and AI-driven systems to a macOS app for film photographers.
+skills: T-SQL, MDX, Microsoft Fabric, MS Analysis Services, MCP, Java, Spring Boot, Python, SwiftUI
+photo: /resources/Foto_Benedict_Weichselbaum_Med.jpg
 ---
-<div
-    style="
-        max-height: 400px;
-        max-width: 700px;
-        overflow: hidden;
-    "
->
-<img img src="/resources/home_pic.png" alt="Home pic">
-</div>
-<br>
 
-<font size="4.5">
-Hello and welcome to my personal website. My name is Benedict, and I'm a Computer Scientist. <br/><br/>
-I currently work for a Business Intelligence software company located in Nürnberg, Germany. At this job I act as a BI-Consultant and mainly work with SQL and Microsoft Analysis Services to integrate and analyze data of medium businesses or large enterprises. In the meantime, I also founded my own individual business for the developing and distribution of my own MacOS SwiftUI app for digializing scanned film negatives and positives. This ties my hobby of analogue photography with my professional interests.<br/><br/>
-I first studyed computer science at <i>Cooperative State University Stuttgart (DHBW)</i> and received my bachelor's degree there as part of a dual study program. After my bachelor I got my master's degree in computer science from <i>Friedrich-Alexander University Erlangen-Nürnberg</i>.<br/><br/>
-Together with DHBW I also sometimes supervise student research projects.<br/><br/>
-As mentioned above I have a great interest in photography. This website therefore may also be an creative outlet for my photo projects. Extending my passion for photography I am also invested into motion pictures and music. I own a small collection of physical movies and vinyl LPs. 
-</font>
-<br>
+## About me
+
+Hello and welcome to my personal website. I'm Benedict, a computer scientist
+based in Brilon, Germany.
+
+I currently work as a **Data Engineer & BI Consultant** at a BI software
+company, where I build ETL pipelines and data warehouses for large enterprises
+and increasingly bring AI-driven systems — such as MCP servers — into the mix.
+Alongside this, I founded my own individual business developing and distributing
+**GrainForge**, a macOS SwiftUI app for digitalising scanned film negatives and
+positives — tying my hobby of analogue photography to my professional interests.
+
+I first studied computer science at the *Cooperative State University Stuttgart
+(DHBW)*, earning my bachelor's degree as part of a dual study program, and went
+on to complete my master's degree at *Friedrich-Alexander University
+Erlangen-Nürnberg*. Together with the DHBW I also occasionally supervise student
+research projects.
+
+Beyond code, I have a great passion for photography, and this website doubles as
+a creative outlet for my photo projects. That passion extends to motion pictures
+and music — I keep a small collection of physical movies and vinyl LPs.

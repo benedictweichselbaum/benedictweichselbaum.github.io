@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="wrap reading">
+  <header class="post-hero">
+    <div class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time>
+      {%- for cat in page.categories -%}<span class="tag">{{ cat }}</span>{%- endfor -%}
+    </div>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <nav class="post-nav">
+    <a href="{{ '/writing/' | relative_url }}">← All writing</a>
+  </nav>
+</article>

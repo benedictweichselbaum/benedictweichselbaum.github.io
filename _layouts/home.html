@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<div class="wrap">
+
+  <section class="hero">
+    <div class="hero-text">
+      <p class="eyebrow">{{ page.location | default: 'Brilon, Germany' }}</p>
+      <h1>{{ page.hero_name | default: 'Benedict Weichselbaum' }}</h1>
+      <p class="hero-role">{{ page.hero_role | default: 'Computer Scientist · BI Consultant · SwiftUI Developer' }}</p>
+      <p class="hero-tagline">{{ page.hero_tagline | default: 'I turn data into insight and ideas into software — from enterprise BI pipelines to a Mac app for film photographers.' }}</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="{{ '/cv/' | relative_url }}">View CV</a>
+        <a class="btn" href="{{ '/contact/' | relative_url }}">Get in touch</a>
+        <a class="btn btn-ghost" href="https://github.com/benedictweichselbaum" rel="noopener" target="_blank">GitHub ↗</a>
+      </div>
+      <div class="chips">
+        {%- assign skills = page.skills | default: 'SQL,MDX,MS Analysis Services,Spring Boot,Java,TypeScript,Angular,Python,SwiftUI' | split: ',' -%}
+        {%- for s in skills -%}<span class="chip">{{ s | strip }}</span>{%- endfor -%}
+      </div>
+    </div>
+    {%- if page.photo -%}
+    <div class="hero-photo">
+      <img src="{{ page.photo | relative_url }}" alt="Portrait of Benedict Weichselbaum" width="440" height="550">
+    </div>
+    {%- endif -%}
+  </section>
+
+  <section class="reading">
+    {{ content }}
+  </section>
+
+  {%- if site.posts.size > 0 -%}
+  <section class="section">
+    <div class="section-head">
+      <h2>Latest writing</h2>
+      <a class="more" href="{{ '/writing/' | relative_url }}">All posts →</a>
+    </div>
+    <div class="card-grid">
+      {%- for post in site.posts limit: 3 -%}
+      <a class="post-card" href="{{ post.url | relative_url }}">
+        <div class="meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y' }}</time>
+          {%- assign cats = post.categories | join: ' · ' -%}
+          {%- if cats != '' %}<span class="tag">{{ cats }}</span>{% endif -%}
+        </div>
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.description | default: post.excerpt | strip_html | truncate: 140 }}</p>
+        <span class="read-more">Read →</span>
+      </a>
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+</div>

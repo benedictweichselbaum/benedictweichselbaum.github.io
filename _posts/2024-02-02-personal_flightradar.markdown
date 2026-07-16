@@ -3,18 +3,10 @@ layout: post
 title:  "Personal Flightradar: Show the aircraft you are tracking with Fr24"
 date:   2024-02-03 17:09:00 +0100
 categories: personal_projects aviation
+description: A weekend Spring Boot and Angular project to visualise the aircraft my ADS-B receiver feeds to Flightradar24 on a live map.
 ---
 
-<div
-    style="
-        max-height: 300px;
-        max-width: 100%;
-        overflow: hidden;
-    "
->
-<img img src="/resources/post_flightradar/flightradar.png" alt="Flightradar pic">
-</div>
-<br>
+![Flightradar visualizer showing tracked aircraft on a map](/resources/post_flightradar/flightradar.png)
 
 ### Referenced projects:
 - [Fr24Proxy](https://github.com/benedictweichselbaum/fr24proxy)
@@ -27,16 +19,7 @@ The website gathers flight data from many data sources to deliver its service. O
 #### Where are MY aircraft?
 One of my main problems now was: **What are actually the aircraft I track that can be seen on the map?** Flightradar does not show you this information. The only possibility to view the currently tracked flights of your receiver is a rather ugly textual representation in the integrated Fr24-GUI:
 
-<div
-    style="
-        max-height: 300px;
-        max-width: 100%;
-        overflow: hidden;
-    "
->
-<img img src="/resources/post_flightradar/ugly_feed.png" alt="Ugly Fr24 Feed">
-</div>
-<br>
+![The textual Fr24 feed representation](/resources/post_flightradar/ugly_feed.png)
 
 But when there is an ugly GUI, at least the data available via an API. This inspired me to write a very simple "private" flight radar. I had two main problems ahead of me:
 - Converting the horrible data from the Fr24 API.
@@ -107,16 +90,7 @@ Thankfully, the order within the array does not change. So if you know the posit
 
 Finally, the prepared data needs to be displayed. For that, I quickly wrote a small Angular frontend. This frontend gets the Fr24Proxy-data and shows it on a map. To achieve that, the application has to be configured with the server URL. After that is set, the data gets regularly polled. The used map is a Leaflet map (Open Street Map). To display the planes, the marker feature of Leaflet is used. It is also possible to click on each plane and get all the fetched information and a link to the plane directly on Flightradar24 to get even more information.
 
-<div
-    style="
-        max-height: 300px;
-        max-width: 100%;
-        overflow: hidden;
-    "
->
-<img img src="/resources/post_flightradar/flight_map_popup.png" alt="Ugly Fr24 Feed">
-</div>
-<br>
+![A plane marker popup on the Leaflet map with flight details](/resources/post_flightradar/flight_map_popup.png)
 
 The frontend can be found [here](https://github.com/benedictweichselbaum/flightradar_visualizer).
 
