@@ -12,16 +12,6 @@ lead: Data engineer and BI consultant with roots in professional software engine
 <div class="timeline">
 
   <div class="timeline-item">
-    <div class="tl-period">01/2025 – Present</div>
-    <div class="tl-role">Founder &amp; Developer</div>
-    <div class="tl-org">Individual business</div>
-    <ul>
-      <li>Independent development (SwiftUI) and sale of <strong>GrainForge</strong>, a macOS app for inverting analog film scans.</li>
-      <li>Run as a side business alongside my main occupation, sold via grainforge.de.</li>
-    </ul>
-  </div>
-
-  <div class="timeline-item">
     <div class="tl-period">07/2024 – Present</div>
     <div class="tl-role">Data Engineer &amp; BI Consultant</div>
     <div class="tl-org">Bissantz &amp; Company GmbH · Hybrid</div>
@@ -57,6 +47,16 @@ lead: Data engineer and BI consultant with roots in professional software engine
     <div class="tl-org">DHBW · Campus Horb</div>
     <ul>
       <li>Supervision and grading of student research projects in the field of graph theory.</li>
+    </ul>
+  </div>
+
+  <div class="timeline-item">
+    <div class="tl-period">01/2025 – Present</div>
+    <div class="tl-role">Founder &amp; Developer (Side Project)</div>
+    <div class="tl-org">Individual business</div>
+    <ul>
+      <li>Independent development (SwiftUI) and sale of <strong>GrainForge</strong>, a macOS app for inverting analog film scans.</li>
+      <li>Run as a side project alongside my main occupation, sold via grainforge.de.</li>
     </ul>
   </div>
 
